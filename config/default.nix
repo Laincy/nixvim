@@ -7,9 +7,6 @@
 
   extraPackages = with pkgs; [
     ripgrep
-		rustc
-		cargo
-		bacon
   ];
 
 	colorschemes.rose-pine.enable = true;
