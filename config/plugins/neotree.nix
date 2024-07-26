@@ -8,9 +8,10 @@
     };
 
     filesystem.filteredItems = {
-      hideGitIgnored = false;
+      hideGitignored = false;
 			alwaysShow = [
         ".gitignore"
+				".env"
       ];
     };
   };
