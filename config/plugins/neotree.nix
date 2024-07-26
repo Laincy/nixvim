@@ -6,6 +6,13 @@
     window = {
       width = 30;
     };
+
+    filesystem.filteredItems = {
+      hideGitIgnored = false;
+			alwaysShow = [
+        ".gitignore"
+      ];
+    };
   };
   keymaps = [
     {
