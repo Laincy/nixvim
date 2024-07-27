@@ -8,6 +8,7 @@
 		./none-ls.nix
 		./telescope.nix
 		./treesitter.nix
+		./trouble.nix
 		./wilder.nix
 	];
 }
